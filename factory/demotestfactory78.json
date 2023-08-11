@@ -1,0 +1,9 @@
+{
+	"name": "demotestfactory78",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "eb56cf42-fe6e-4c66-8fe6-6f7351a16316",
+		"tenantId": "a3368e23-0686-4d54-b55a-9c41317b474c"
+	}
+}
